@@ -475,6 +475,13 @@
     .s-content p {
         font-size: 16px;
     }
+	    .service {
+        padding: 20px 4px;
+    }
+    .pricing-table {
+        background: #f7f9ff;
+        padding: 25px 4px;
+    }	
 
 
 }
