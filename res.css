@@ -270,6 +270,7 @@
     }
 
 
+
 }
 
 @media (max-width:930px){
@@ -475,13 +476,6 @@
     .s-content p {
         font-size: 16px;
     }
-	    .service {
-        padding: 20px 4px;
-    }
-    .pricing-table {
-        background: #f7f9ff;
-        padding: 25px 4px;
-    }	
 
 
 }
@@ -555,6 +549,13 @@
     .blog-content img {
         width: 270px;
     }
+    .service {
+        padding: 20px 4px;
+    }
+    .pricing-table {
+        background: #f7f9ff;
+        padding: 25px 4px;
+    }
 }
 
 @media (max-width:495px){
@@ -567,6 +568,16 @@
     }
     .blog-content img {
         width: 225px;
+    }
+    .service {
+        background: #fff;
+        padding: 2px;
+    }
+}
+
+@media (max-width:436px){
+    .submit-btn {
+        margin-top: 10px;
     }
 }
 
